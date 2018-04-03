@@ -1771,6 +1771,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -5958,6 +5971,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -5966,6 +5984,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Contracts >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -5980,11 +5999,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj",
-      "projectName": "Contracts",
-      "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Repository\\Repository.csproj",
+      "projectName": "Repository",
+      "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\obj\\",
+      "outputPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6003,6 +6022,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+            },
             "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj": {
               "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj"
             }

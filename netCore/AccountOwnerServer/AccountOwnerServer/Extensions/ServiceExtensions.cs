@@ -3,9 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Contracts;
+using Entities;
 using LoggerService;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Repository;
 
 namespace AccountOwnerServer.Extensions
 {
@@ -28,6 +32,17 @@ namespace AccountOwnerServer.Extensions
         public static void ConfigureLoggerService(this IServiceCollection services)
         {
             services.AddSingleton<ILoggerManager, LoggerManager>();
+        }
+
+        public static void ConfigureMySqlContext(this IServiceCollection services, IConfiguration config)
+        {
+            var connectionString = config["mysqlconnection:connectionString"];
+            services.AddDbContext<RepositoryContext>(o => o.UseMySql(connectionString));
+        }
+
+        public static void ConfigureRepositoryWrapper(this IServiceCollection services)
+        {
+            services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
         }
     }
 }

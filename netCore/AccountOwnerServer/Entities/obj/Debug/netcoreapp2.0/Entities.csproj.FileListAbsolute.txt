@@ -1,0 +1,9 @@
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.deps.json
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.csprojResolveAssemblyReference.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfo.cs
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.0\Entities.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.0\Entities.pdb

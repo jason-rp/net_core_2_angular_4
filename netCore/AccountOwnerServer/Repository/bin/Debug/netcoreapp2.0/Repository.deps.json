@@ -1,18 +1,18 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "c4cdd5cea746da304931562dc2d218b829237a68"
+    "signature": "4274b4fbc15e3dbfa24907487a4ab2799148c882"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "LoggerService/1.0.0": {
+      "Repository/1.0.0": {
         "dependencies": {
           "Contracts": "1.0.0",
-          "NLog.Extensions.Logging": "1.0.0"
+          "Entities": "1.0.0"
         },
         "runtime": {
-          "LoggerService.dll": {}
+          "Repository.dll": {}
         }
       },
       "Microsoft.CSharp/4.4.0": {},
@@ -198,20 +198,6 @@
         },
         "runtime": {
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
-        }
-      },
-      "NLog/4.5.0": {
-        "runtime": {
-          "lib/netstandard2.0/NLog.dll": {}
-        }
-      },
-      "NLog.Extensions.Logging/1.0.0": {
-        "dependencies": {
-          "Microsoft.Extensions.Logging": "2.0.0",
-          "NLog": "4.5.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/NLog.Extensions.Logging.dll": {}
         }
       },
       "Pomelo.EntityFrameworkCore.MySql/2.0.1": {
@@ -1107,7 +1093,7 @@
     }
   },
   "libraries": {
-    "LoggerService/1.0.0": {
+    "Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1244,20 +1230,6 @@
       "sha512": "sha512-ikcL2W8NYdc5C5UpduioC1HgXutGrq/8zKRq1RKRo6OuF0IWW3gPq8A/LqsV8oix/ZaAnKck38DjqMHdE67vEg==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
-    },
-    "NLog/4.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-lzqhWWkcC2HplWKsT3Rv81O7WbMt0xr0ICnCGqTgiSkqbnRxL8tTDGL0WRK7+sFZnZ/GQThkQcjSymhcbz05/w==",
-      "path": "nlog/4.5.0",
-      "hashPath": "nlog.4.5.0.nupkg.sha512"
-    },
-    "NLog.Extensions.Logging/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-a/Bxm5QcSxhpB25CqrC7uj+v23sqpXfL1xWbzBJF/m67Fb2hlsqwB6nfVXGTudOtlGBhExpdVLRDKvBGBO/guw==",
-      "path": "nlog.extensions.logging/1.0.0",
-      "hashPath": "nlog.extensions.logging.1.0.0.nupkg.sha512"
     },
     "Pomelo.EntityFrameworkCore.MySql/2.0.1": {
       "type": "package",

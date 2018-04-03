@@ -13,3 +13,7 @@ D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServe
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfo.cs
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.dll
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Entities.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Repository.pdb

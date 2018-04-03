@@ -9,3 +9,5 @@ D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\bin
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Contracts.pdb
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.dll
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Entities.pdb

@@ -6,3 +6,6 @@ D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\obj\Deb
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
 D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojResolveAssemblyReference.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb

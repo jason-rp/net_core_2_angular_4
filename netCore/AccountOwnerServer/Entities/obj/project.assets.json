@@ -1770,19 +1770,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "Pomelo.EntityFrameworkCore.MySql": "2.0.1"
-        },
-        "compile": {
-          "bin/placeholder/Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entities.dll": {}
-        }
       }
     }
   },
@@ -5957,17 +5944,12 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Entities/1.0.0": {
-      "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Entities >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Pomelo.EntityFrameworkCore.MySql >= 2.0.1"
     ]
   },
   "packageFolders": {
@@ -5980,11 +5962,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj",
-      "projectName": "Contracts",
-      "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Contracts\\obj\\",
+      "outputPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6002,11 +5984,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\FreeProject\\net_core_2_angular_4\\netCore\\AccountOwnerServer\\Entities\\Entities.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -6018,6 +5996,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Pomelo.EntityFrameworkCore.MySql": {
+            "target": "Package",
+            "version": "2.0.1"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",

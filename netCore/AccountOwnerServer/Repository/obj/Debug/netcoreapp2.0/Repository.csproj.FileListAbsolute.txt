@@ -1,0 +1,13 @@
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Entities.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.0\Entities.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.csprojResolveAssemblyReference.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
