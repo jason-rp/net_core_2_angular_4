@@ -1,0 +1,15 @@
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.deps.json
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.json
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.runtimeconfig.dev.json
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\AccountOwnerServer.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.0\LoggerService.pdb
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csprojResolveAssemblyReference.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfoInputs.cache
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.AssemblyInfo.cs
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.dll
+D:\FreeProject\net_core_2_angular_4\netCore\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.0\AccountOwnerServer.pdb
